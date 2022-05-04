@@ -1,0 +1,7 @@
+jupyter
+transformers[ja]
+torch
+torchtext
+numpy
+pandas
+sklearn
